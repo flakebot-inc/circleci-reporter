@@ -1,10 +1,10 @@
-# Flakebot CircleCI Orb [![CircleCI Orb Version](https://img.shields.io/badge/endpoint.svg?url=https://badges.circleci.io/orb/flakebot/report)](https://circleci.com/orbs/registry/orb/flakebot/report) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/flakebot-inc/circleci-reporter/master/LICENSE)
+# Flakebot CircleCI Orb [![CircleCI Orb Version](https://img.shields.io/badge/endpoint.svg?url=https://badges.circleci.io/orb/flakebot/reporter)](https://circleci.com/orbs/registry/orb/flakebot/reporter) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/flakebot-inc/circleci-reporter/master/LICENSE)
 
 Easily connect your CircleCI jobs to [Flakebot](https://flakebot.com) to identify and eliminate flaking tests.
 
 ## Usage
 
-See [this orb's listing in CircleCI's Orbs Registry](https://circleci.com/orbs/registry/orb/flakebot/report) for details on usage, or see the example below.
+See [this orb's listing in CircleCI's Orbs Registry](https://circleci.com/orbs/registry/orb/flakebot/reporter) for details on usage, or see the example below.
 
 ## Example
 
