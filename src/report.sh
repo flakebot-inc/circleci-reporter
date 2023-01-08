@@ -11,6 +11,11 @@ fi
 
 OS=$(uname -s | tr '[:upper:]' '[:lower:]')
 ARCH=$(uname -m | tr '[:upper:]' '[:lower:]')
+if [ "$ARCH" = "aarch64" ]; then
+	ARCH="arm64"
+elif [ "$ARCH" = "x86_64" ]; then
+	ARCH="amd64"
+fi
 
 getcli() {
 	fetch() {
